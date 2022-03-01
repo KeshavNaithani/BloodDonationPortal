@@ -45,7 +45,7 @@ CREATE TABLE `donor_details` (
 --
 
 INSERT INTO `donor_details` (`id`, `name`, `gender`, `email`, `city`, `dob`, `contact_no`, `donation_date`, `password`, `blood_group`) VALUES
-(15, 'Keshav Naithani', 'Male', 'keshavnaithani2@gmail.com', 'Kargi Grant', '1960-05-05', '7617496791', '2022-03-01', '71b3b26aaa319e0cdf6fdb8429c112b0', 'A-'),
+(15, 'Keshav Naithani', 'Male', 'keshavnaithani@gmail.com', 'Kargi Grant', '1960-05-05', '7617496791', '2022-03-01', '71b3b26aaa319e0cdf6fdb8429c112b0', 'A-'),
 (16, 'Harish Pandey', 'Male', 'harish56@gmail.com', 'Miyanwala', '1972-06-21', '6465668464', '2022-02-26', 'e10adc3949ba59abbe56e057f20f883e', 'B+'),
 (17, 'Riya Rawat', 'Female', 'riya123@gmail.com', 'Banjarawala', '1976-11-18', '4988652626', '2022-02-26', 'e10adc3949ba59abbe56e057f20f883e', 'B+');
 
